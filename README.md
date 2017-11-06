@@ -9,7 +9,7 @@
     - screenX 和 screenY: 表示鼠标在整个屏幕中的位置。从屏幕（不是浏览器）的左上角开始计算。
     - offsetX 和 offsetY: 表示鼠标相对于定位父元素的位置。     
     
-![offsetX和offsetY属性](http://a3.qpic.cn/psb?/V118JuTr0BKcy7/HRmT57ASGn*xm57pHBFOps1xdw77vHYpzRpmNlj2oUU!/m/dPIAAAAAAAAAnull&bo=GwWAAgAAAAADB74!&rf=photolist&t=5)    
+![offsetX和offsetY属性](http://a3.qpic.cn/psb?/V118JuTr0BKcy7/HRmT57ASGn*xm57pHBFOps1xdw77vHYpzRpmNlj2oUU!/b/dPIAAAAAAAAA&bo=GwWAAgAAAAADALk!&rf=viewer_4)    
 
 #### 鼠标的相对坐标 
 ```html 
