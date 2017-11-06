@@ -142,7 +142,7 @@
 </body>
 </html>
 ```
-![事件周期](http://a3.qpic.cn/psb?/V118JuTr0BKcy7/nCUbPKFqU.UwTdeYF4ojDeTbimkXkfIthAxu*4DdPUg!/m/dGoBAAAAAAAAnull&bo=GwWAAgAAAAADB74!&rf=photolist&t=5)    
+![事件周期](http://a3.qpic.cn/psb?/V118JuTr0BKcy7/nCUbPKFqU.UwTdeYF4ojDeTbimkXkfIthAxu*4DdPUg!/b/dGoBAAAAAAAA&bo=GwWAAgAAAAADALk!&rf=viewer_4)    
 
 > 值得注意的是: IE 8 及之前版本的浏览器不支持捕获阶段。   
 
